@@ -6,7 +6,7 @@ body {
   display: flex;
 }
 
-.top-title {
+.header-title {
   margin-left: 40px;
   font-family: "Nunito", sans-serif;
   color: rgb(116, 80, 150);
