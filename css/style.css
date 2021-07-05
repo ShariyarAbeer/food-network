@@ -1,3 +1,25 @@
-h1 {
-  text-align: center;
+body {
+  margin: 0;
+}
+
+.side-by-side {
+  display: flex;
+}
+
+.top-title {
+  margin-left: 40px;
+  font-family: "Nunito", sans-serif;
+  color: rgb(116, 80, 150);
+  letter-spacing: 3px;
+}
+
+.socal-link {
+  margin-right: 30px;
+  position: absolute;
+  right: 0;
+  margin-top: 15px;
+}
+.socal-link img {
+  height: 30px;
+  width: auto;
 }
