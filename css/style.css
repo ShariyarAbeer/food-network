@@ -193,9 +193,12 @@ span{
   text-align: center;
   display: flex;
   background-color: white;
-  border-radius: 25px;
+  border-radius: 10px;
   margin-top: 10%;
-  box-shadow: 10px 10px 40px rgb(170, 170, 170);
+  padding-top: 2%;
+  margin-bottom: 10%;
+  padding-bottom: 2%;
+  box-shadow: 10px 10px 40px rgb(223, 223, 223);
 
 }
 
