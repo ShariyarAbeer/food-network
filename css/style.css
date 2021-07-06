@@ -275,3 +275,120 @@ margin-left: 5%;
   margin-left: 5%;
   margin-right: 5%;
 }
+
+
+
+#person{
+  width: 50%;
+ 
+  
+}
+#person img{
+  
+  
+  margin-left: 15%;
+  height: 70%;
+  width: 70%;
+  object-fit:contain;
+
+}
+
+#form{
+  width: 50%;
+
+}
+
+#contact{
+  font-size: 2em;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 800;
+ 
+  color: rgb(75, 75, 75);
+}
+
+.input-text{
+
+  border: none;
+  height: 30px;
+  padding: 2%;
+  margin-bottom: 5%;
+
+}
+
+#input-msg{
+
+  border: none;
+  height: 100px;
+  width: 100%;
+  padding: 2%;
+  margin-bottom: 9%;
+
+}
+
+
+footer {
+  text-align: center;
+  height: 200px;
+  background-color: rgb(116, 71, 153);
+  background-image: linear-gradient(
+    to left,
+    rgb(99, 22, 80),
+    rgb(156, 68, 128)
+  );
+  margin: 0;
+}
+
+#footer-title{
+  color: white;
+  font-family: "Nunito", sans-serif;
+  letter-spacing: 4px;
+}
+
+#food-title-big{
+  color: rgb(39, 38, 38);
+  padding-top: 40px;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+#footer-subline{
+  color: white;
+  font-size: 0.9em;
+  font-weight: 400;
+  margin-bottom: 2%;
+  
+ 
+
+}
+
+#dev-phone{
+
+  font-size: 0.7em;
+  position: absolute;
+  left: 5px;
+  margin-top: 10px;
+margin-bottom: 0;
+padding: 0;
+color: white;
+}
+
+
+#email{
+  font-size: 0.7em;
+  margin: 0%;
+  padding: 0%;
+  position: absolute;
+  left: 5px;
+  color: white;
+  margin-top: 25px;
+margin-bottom: 0;
+padding: 0;
+}
+#developer:hover{
+  color: white;
+}
+
+
+#developer{
+  text-decoration: none;
+  color: #000;
+  
+}
