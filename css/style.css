@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  
-  font-family: 'Prompt', sans-serif;
+
+  font-family: "Prompt", sans-serif;
 }
 
 .side-by-side {
@@ -11,7 +11,7 @@ body {
 #header-title {
   margin-left: 40px;
   font-family: "Nunito", sans-serif;
-  color: #F136B6;
+  color: #f136b6;
   letter-spacing: 3px;
 }
 
@@ -26,38 +26,35 @@ body {
   width: auto;
 }
 
-#top-half{
+#top-half {
   margin: 0 auto;
   width: 100%;
 }
 
-span{
-  color: #F136B6;;
+span {
+  color: #f136b6;
 }
 
-.top-text h1{
-  font-family: 'IBM Plex Sans', sans-serif;
+.top-text h1 {
+  font-family: "IBM Plex Sans", sans-serif;
   font-weight: 800;
   font-size: 3.5em;
   color: rgb(75, 75, 75);
-
 }
 
-.top-text{
+.top-text {
   width: 50%;
   margin-top: 5%;
   margin-left: 5%;
- 
+
   color: rgb(146, 146, 146);
-  
-  
 }
 
-.link-button:hover{
+.link-button:hover {
   opacity: 0.7;
 }
 
-.link-button{
+.link-button {
   text-decoration: none;
   background-color: rgb(24, 20, 26);
   padding: 10px 30px;
@@ -68,69 +65,61 @@ span{
     to left,
     rgb(141, 31, 113),
     rgb(253, 93, 203)
-
   );
   border-radius: 30px;
- 
- 
 }
 
-.top-margin{
+.top-margin {
   margin-top: 10%;
 }
 
-
 #top-img {
- width: 50%;
-}
-#top-img img{
-  width: 100%;
-  height: 70%;
- 
-
-}
-
-#about{
   width: 50%;
 }
-#about-img img{
+#top-img img {
+  width: 100%;
+  height: 70%;
+}
+
+#about {
+  width: 50%;
+}
+#about-img img {
   width: 100%;
   margin-top: 15%;
   margin-bottom: 15%;
-
 }
-#back-img{
+#back-img {
   background-image: url("../images/frame.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-size: 100% 100%;
 }
-#about-me{
+#about-me {
   font-size: 2em;
 }
 
-#my-Recipies{
+#my-Recipies {
   font-size: 2em;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   font-weight: 800;
- 
+
   color: rgb(75, 75, 75);
 }
 
-.text-center{
+.text-center {
   text-align: center;
   color: rgb(146, 146, 146);
   margin: 10px 20%;
-  
 }
 
-.rep{
+.rep {
   margin-top: 5%;
   margin-left: 5%;
   margin-right: 5%;
 }
 
-.rep-one{
+.rep-one {
   width: 30%;
   background-color: white;
   border-radius: 20px;
@@ -138,56 +127,52 @@ span{
   padding-top: 20px;
   padding-left: 20px;
   padding-right: 20px;
-
 }
-.rep-one img{
+.rep-one img {
   width: 100%;
   height: 250px;
   border-radius: 20px;
-  
 }
-.rep-two{
+.rep-two {
   width: 30%;
   margin-left: 5%;
   margin-right: 5%;
   background-color: white;
   border-radius: 20px;
-  box-shadow: 10px 10px 40px rgb(212, 212, 212); 
+  box-shadow: 10px 10px 40px rgb(212, 212, 212);
   padding-top: 20px;
   padding-left: 20px;
   padding-right: 20px;
 }
-.rep-two img{
+.rep-two img {
   border-radius: 15px;
   width: 100%;
   height: 250px;
 }
-.rep-three{
+.rep-three {
   width: 30%;
- 
+
   background-color: white;
   border-radius: 20px;
   box-shadow: 10px 10px 40px rgb(212, 212, 212);
   padding-top: 20px;
   padding-left: 20px;
   padding-right: 20px;
-
 }
-.rep-three img{
+.rep-three img {
   width: 100%;
   height: 250px;
   border-radius: 15px;
-  
 }
 
-.rep-p{
+.rep-p {
   font-size: 0.9em;
   font-weight: 400;
   color: rgb(66, 66, 66);
   margin-bottom: 10%;
 }
 
-#subscriber{
+#subscriber {
   margin: 0 auto;
   width: 90%;
   text-align: center;
@@ -199,32 +184,29 @@ span{
   margin-bottom: 10%;
   padding-bottom: 2%;
   box-shadow: 10px 10px 40px rgb(223, 223, 223);
-
 }
 
-#subscriber-one{
+#subscriber-one {
   width: 30%;
-margin-left: 5%;
+  margin-left: 5%;
 }
-#subscriber-two{
+#subscriber-two {
   width: 30%;
 }
-#subscriber-three{
+#subscriber-three {
   width: 30%;
-
 }
-.subscriber-hearder{
+.subscriber-hearder {
   font-size: 3em;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   margin-bottom: 0;
 }
 
-
 #review-title {
   font-size: 2em;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   font-weight: 800;
- 
+
   color: rgb(75, 75, 75);
 }
 
@@ -234,10 +216,9 @@ margin-left: 5%;
   width: auto;
   padding: 20px;
 }
-#review{
+#review {
   margin: 0 auto;
   width: 80%;
-
 }
 .user-one {
   width: 50%;
@@ -247,24 +228,20 @@ margin-left: 5%;
   background-color: white;
   border-radius: 20px;
   box-shadow: 10px 10px 40px rgb(212, 212, 212);
-  
 }
 .user-two {
   width: 50%;
   margin-left: 5%;
   padding-left: 2%;
   padding-right: 2%;
- 
+
   background-color: white;
   border-radius: 20px;
   box-shadow: 10px 10px 40px rgb(212, 212, 212);
-  
 }
 
-
-
 #what-text {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   font-size: 2em;
   font-weight: 200;
   color: rgb(75, 75, 75);
@@ -276,55 +253,49 @@ margin-left: 5%;
   margin-right: 5%;
 }
 
-
-
-#person{
+#person {
   width: 50%;
- 
-  
 }
-#person img{
-  
-  
+#person img {
   margin-left: 15%;
   height: 70%;
   width: 70%;
-  object-fit:contain;
-
+  object-fit: contain;
 }
 
-#form{
+#form {
   width: 50%;
-
 }
 
-#contact{
+#contact-dice {
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 10px 10px 40px rgb(212, 212, 212);
+  padding: 15px 35px;
+}
+
+#contact {
   font-size: 2em;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
   font-weight: 800;
- 
+
   color: rgb(75, 75, 75);
 }
 
-.input-text{
-
+.input-text {
   border: none;
   height: 30px;
   padding: 2%;
   margin-bottom: 5%;
-
 }
 
-#input-msg{
-
+#input-msg {
   border: none;
   height: 100px;
   width: 100%;
   padding: 2%;
   margin-bottom: 9%;
-
 }
-
 
 footer {
   text-align: center;
@@ -338,57 +309,55 @@ footer {
   margin: 0;
 }
 
-#footer-title{
+#footer-title {
   color: white;
   font-family: "Nunito", sans-serif;
   letter-spacing: 4px;
 }
 
-#food-title-big{
+#food-title-big {
   color: rgb(39, 38, 38);
   padding-top: 40px;
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
 }
-#footer-subline{
+#footer-subline {
   color: white;
   font-size: 0.9em;
   font-weight: 400;
   margin-bottom: 2%;
-  
- 
-
 }
 
-#dev-phone{
-
+#dev-phone {
   font-size: 0.7em;
   position: absolute;
   left: 5px;
-  margin-top: 10px;
-margin-bottom: 0;
-padding: 0;
-color: white;
+  margin-top: 15px;
+  margin-bottom: 0;
+  padding: 0;
+  color: white;
 }
 
-
-#email{
+#email {
   font-size: 0.7em;
   margin: 0%;
   padding: 0%;
   position: absolute;
   left: 5px;
   color: white;
-  margin-top: 25px;
-margin-bottom: 0;
-padding: 0;
+  margin-top: 30px;
+  margin-bottom: 0;
+  padding: 0;
 }
-#developer:hover{
+#developer:hover {
   color: white;
 }
 
-
-#developer{
+#developer {
   text-decoration: none;
   color: #000;
-  
+}
+
+hr {
+  margin: 0 auto;
+  width: 80%;
 }
