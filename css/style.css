@@ -218,3 +218,60 @@ margin-left: 5%;
   font-family: 'IBM Plex Sans', sans-serif;
   margin-bottom: 0;
 }
+
+
+#review-title {
+  font-size: 2em;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 800;
+ 
+  color: rgb(75, 75, 75);
+}
+
+.round {
+  border-radius: 50%;
+  height: 50px;
+  width: auto;
+  padding: 20px;
+}
+#review{
+  margin: 0 auto;
+  width: 80%;
+
+}
+.user-one {
+  width: 50%;
+  margin-right: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 10px 10px 40px rgb(212, 212, 212);
+  
+}
+.user-two {
+  width: 50%;
+  margin-left: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+ 
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 10px 10px 40px rgb(212, 212, 212);
+  
+}
+
+
+
+#what-text {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 2em;
+  font-weight: 200;
+  color: rgb(75, 75, 75);
+}
+
+.grp-center {
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+}
